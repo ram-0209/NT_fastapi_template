@@ -1,1 +1,1 @@
-"""User SQL Models"""
+"""Contains User Model"""
