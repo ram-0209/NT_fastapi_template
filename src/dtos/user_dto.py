@@ -1,3 +1,3 @@
 """
-    Common Schema for mapping user
+    Contains Common Schema for mapping user
 """

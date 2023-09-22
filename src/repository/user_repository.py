@@ -1,1 +1,1 @@
-"""User Database functions"""
+"""Contains Database operations for User APIs"""

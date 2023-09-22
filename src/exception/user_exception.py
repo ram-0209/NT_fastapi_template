@@ -1,4 +1,4 @@
-"""User Exceptions Structure"""
+"""Contains Exceptions"""
 from fastapi import HTTPException, status
 
 

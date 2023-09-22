@@ -1,1 +1,1 @@
-"""Testing of User Service layer"""
+"""Contains test cases for Business Logic Operations for User APIs"""

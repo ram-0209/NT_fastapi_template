@@ -1,5 +1,5 @@
 """
-    Enums for HTTP Status CodesS
+    Contains Enums for HTTP Status CodesS
 """
 from enum import Enum
 

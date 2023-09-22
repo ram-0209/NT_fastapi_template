@@ -1,5 +1,5 @@
 """
-    Common Schema for mapping response
+    Contains Common Schema for mapping response
 """
 from sqlmodel import Field, SQLModel
 

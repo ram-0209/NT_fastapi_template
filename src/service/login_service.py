@@ -1,4 +1,4 @@
-"""Login Service"""
+"""Contains Login Operations"""
 import random
 import string
 from datetime import datetime, timedelta, timezone

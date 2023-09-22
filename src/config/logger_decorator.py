@@ -1,4 +1,4 @@
-"""Logger Decorator"""
+"""Contains Logger Decorator"""
 import functools
 
 from loguru import logger

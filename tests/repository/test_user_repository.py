@@ -1,1 +1,1 @@
-"""Testing of User Database Functions"""
+"""Contains Test cases for User Database Operations"""

@@ -1,1 +1,1 @@
-"""Creation of a data for test database"""
+"""Contains creation of a data for test database"""

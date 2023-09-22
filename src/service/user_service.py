@@ -1,1 +1,1 @@
-"""Service Layer for User APIs"""
+"""Contains Business Logic for User APIs"""

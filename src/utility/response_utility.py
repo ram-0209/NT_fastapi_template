@@ -1,5 +1,5 @@
 """
-    common json response structure
+    Contains common json response structure
 """
 from src.config.http_status_codes import HttpStatusCodes
 from src.dtos.response_dto import Response

@@ -1,1 +1,1 @@
-"""Testing of User APIs"""
+"""Contains test cases for User APIs"""

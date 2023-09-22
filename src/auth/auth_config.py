@@ -1,4 +1,4 @@
-"""JWT authentication"""
+"""Contains JWT authentication"""
 from fastapi import Request
 from fastapi.security import HTTPAuthorizationCredentials, HTTPBearer
 

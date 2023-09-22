@@ -1,4 +1,4 @@
-"""Database Connection"""
+"""Contains Database Connection Operations"""
 import os
 import struct
 
